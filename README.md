@@ -1,9 +1,9 @@
 # About Me:
 **I’m currently working on:** <br>
-Educational & psychometric analysis (leveraging AI), building **R Shiny dashboards** for monitoring and data-driven decision making at **PKN STAN**, and streamlining processes with **n8n automated workflows**.
+Educational & psychometric analysis (occasionally leveraging AI), building **R Shiny dashboards** for monitoring and data-driven decision making at **PKN STAN**, and streamlining processes with **n8n automated workflows**.
 
 **I’m looking to collaborate on:** <br>
-Projects at the intersection of education, technology, and data science — especially those involving AI, assessment, or digital learning innovation.
+Projects at the intersection of education, technology, and data science, especially those involving AI, assessment, or digital learning innovation.
 
 **I’m currently learning:** <br>
 **Docker** containerization, advanced **GitHub** workflows, **RAG** (Retrieval-Augmented Generation), and **AIED** (Artificial Intelligence in Education) methodologies.
@@ -12,7 +12,7 @@ Projects at the intersection of education, technology, and data science — espe
 R for psychometrics, Rasch modeling, **n8n automation**, or building data apps for education.
 
 **Fun fact:** <br>
-I’m a cross-discipline researcher — I’ve journeyed from tax administration to accounting, HR management, and English language teaching. Now I use AI to connect and augment all those fields!
+I’m a cross-discipline researcher — I’ve journeyed from tax administration to accounting, HR management, and English language teaching. Now I use data analytics and AI to connect and augment all those fields!
 
 
 ## Socials:
