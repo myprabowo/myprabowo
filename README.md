@@ -1,18 +1,15 @@
 # About Me:
-**I’m currently working on:** <br>
-Educational & psychometric analysis (occasionally leveraging AI), building **R Shiny dashboards** for monitoring and data-driven decision making at **PKN STAN**, and streamlining processes with **n8n automated workflows**.
-
-**I’m looking to collaborate on:** <br>
-Projects at the intersection of education, technology, and data science, especially those involving AI, assessment, or digital learning innovation.
-
-**I’m currently learning:** <br>
-**Docker** containerization, advanced **GitHub** workflows, **RAG** (Retrieval-Augmented Generation), and **AIED** (Artificial Intelligence in Education) methodologies.
-
-**Ask me about:** <br>
-R for psychometrics, Rasch modeling, **n8n automation**, or building data apps for education.
-
-**Fun fact:** <br>
-I’m a cross-discipline researcher — I’ve journeyed from tax administration to accounting, HR management, and English language teaching. Now I use data analytics and AI to connect and augment all those fields!
+- **I’m currently working on:**  
+  Educational & psychometric analysis, building R Shiny dashboards for data-driven decision making at PKN STAN, and streamlining operations with **n8n automated workflows**.  
+  *Lately, I've also been leveraging Agentic AI to bridge data and automation.*
+- **I’m looking to collaborate on:**  
+  Projects at the intersection of education, technology, and data science. I'm especially interested in AI-driven development, assessment tools, and digital learning innovations.
+- **I’m currently learning:**  
+  Docker containerization, advanced GitHub workflows, **RAG** (Retrieval-Augmented Generation), **AIED** (Artificial Intelligence in Education) methodologies, and Agent-assisted full-stack coding.
+- **Ask me about:**  
+  R for psychometrics, Rasch modeling, n8n automation pipelines, building data apps for education, or how I use AI coding assistants to rapidly deploy functional tools.
+- **Fun fact:**  
+  I’m a cross-discipline researcher. My journey has taken me from tax administration to accounting, HR management, and English language teaching. Today, I use data analytics and AI as the ultimate bridge to connect and augment all those fields.
 
 
 ## Socials:
